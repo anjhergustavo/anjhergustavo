@@ -1,4 +1,6 @@
-## 👋 Welcome!, I am Anjher Gustavo 💻
+<h1 align="center"> <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"> Welcome!, I am Anjher Gustavo 💻 </h1> 
+<p align="center">
+ <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1500&color=1877DF&random=true&width=435&lines=Electronic+Engineer;Specializing+in+Machine+Learning;Full-stack+developer+in+progress..." alt="Typing SVG" /></a>
 
 <!--
 **anjhergustavo/anjhergustavo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
