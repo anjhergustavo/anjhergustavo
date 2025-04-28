@@ -8,36 +8,47 @@ Second section, about me and image
 -->
 
 
-<!--
-<p align="right">
-  <img src="https://github.com/anjhergustavo/anjhergustavo/blob/main/profesional%201.jpg" width="500" height="300"/>
-</p>
-### 👨🏻‍💻 &nbsp;About Me
-&nbsp;<p><b>Hard Skills </b></p> \
-💻 &nbsp;Python Programming \
-🎨 &nbsp;CSS Styling (learning) \
-🖥️ &nbsp;JavaScript Development (learning) \
-⚙️ &nbsp;STM32f746 Microcontroller Experience \
-📚 &nbsp;Mathematics for Machine Learning \
-🎓 &nbsp;Electronics Engineering Degree 
-
-&nbsp;<p><b>Soft Skills </b></p> \
-🤝 &nbsp;Team Collaboration \
-🎸 &nbsp;Creativity and Artistic Expression (electric guitarist in a local Christian band) \
-🧠 &nbsp;Problem-Solving Skills \
-⏳ &nbsp;Time Management \
-🚀 &nbsp;Continuous Learning Attitude 
--->
-
 <table>
 <tr>
 <td>
 
 ### 👨🏻‍💻 About Me
 
+<img src="https://img.shields.io/badge/Hard%20Skills-%F0%9F%92%BB-c7ac60?style=for-the-badge"/>  
+
+💻 **Python Programming** (learning)  
+🎨 **CSS Styling** (learning)  
+🖥️ **JavaScript Development** (learning)  
+⚙️ **STM32f746 Microcontroller Experience**  
+📚 **Mathematics for Machine Learning**  
+🎓 **Electronics Engineering Degree**  
+
+<br>
+
+<img src="https://img.shields.io/badge/Soft%20Skills-%F0%9F%A4%9D-88b0d6?style=for-the-badge"/>  
+
+🤝 **Team Collaboration**  
+🎸 **Creativity and Artistic Expression** (electric guitarist in a local Christian band)  
+🧠 **Problem-Solving Skills**  
+⏳ **Time Management**  
+🚀 **Continuous Learning Attitude**  
+
+</td>
+<td>
+
+<img src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" width="300"/>
+
+</td>
+</tr>
+</table>
+
 <!--
-Batchs were taken from https://shields.io/badges
--->
+
+<table>
+<tr>
+<td>
+
+### 👨🏻‍💻 About Me
 
 <img src="https://img.shields.io/badge/Hard%20Skills-%F0%9F%92%BB-c7ac60?style=for-the-badge"/>  
 
@@ -66,6 +77,7 @@ Batchs were taken from https://shields.io/badges
 </td>
 </tr>
 </table>
+-->
 
 <!--
 This first part was taken from https://readme-typing-svg.demolab.com/
