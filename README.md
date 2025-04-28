@@ -24,9 +24,9 @@ Icons and more
 
 ### 👨🏻‍💻 About Me
 
-<img src="https://img.shields.io/badge/Hard%20Skills-%F0%9F%92%BB-c7ac60?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Hard%20Skills-%f0%9f%92%8e-88b0d6?style=for-the-badge"/>  
 
-💻 **Python Programming** (learning)  
+🌐 **Python Programming** (learning)  
 🎨 **CSS Styling** (learning)  
 🖥️ **JavaScript Development** (learning)  
 ⚙️ **STM32f746 Microcontroller Experience**  
@@ -35,7 +35,7 @@ Icons and more
 
 <br>
 
-<img src="https://img.shields.io/badge/Soft%20Skills-%F0%9F%A4%9D-88b0d6?style=for-the-badge"/>  
+<img src="https://img.shields.io/badge/Soft%20Skills-%F0%9F%A4%9D-c7ac60?style=for-the-badge"/>  
 
 🤝 **Team Collaboration**  
 🎸 **Creativity and Artistic Expression** (electric guitarist in a local Christian band)  
