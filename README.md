@@ -14,7 +14,7 @@ Icons and more
   <img src="https://img.shields.io/badge/-HTML-c58545?style=for-the-badge&logo=html5&logoColor=c58545&labelColor=282828">
   <img src="https://img.shields.io/badge/-CSS-c7ac60?style=for-the-badge&logo=css3&logoColor=c7ac60&labelColor=282828">
   <img src="https://img.shields.io/badge/-Python-98c4ee?style=for-the-badge&logo=python&logoColor=98c4ee&labelColor=282828">
-  <img src="https://img.shields.io/badge/-English B2-d0c9b5?style=for-the-badge&logo=engadget&logoColor=d0c9b5&labelColor=282828">
+  <img src="https://img.shields.io/badge/-English B2/C1-d0c9b5?style=for-the-badge&logo=engadget&logoColor=d0c9b5&labelColor=282828">
 </div>
 </p>
 
