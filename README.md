@@ -54,7 +54,6 @@ Icons and more
 &nbsp;
 
 ### 📠 Let's talk!
-
  <h2 <align="left">
       <br/>
       <a href="mailto:anjhergustavo@gmail.com" target="blank"><img align="center"
